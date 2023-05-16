@@ -1,0 +1,12 @@
+# Site settings
+title:HCF Corp AI
+email:hcf@hcfcorp.ai
+description:We build AI for highly regulated industries. > # this means to ignore newlines until "baseurl:"
+baseurl: "/site/" # the subpath of your site, e.g. /blog/
+url: "https://hcfcorp.ai" # the base hostname & protocol for your site
+
+twitter_username:hcfcorp
+github_username:hcfcorp
+
+# Build settings
+markdown: kramdown
